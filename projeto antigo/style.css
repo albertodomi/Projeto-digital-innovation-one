@@ -1,0 +1,51 @@
+nav{
+	position:absolute;
+	top: 90px;
+	right: 0px;
+}
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+body{
+	background: #CCCCCC;
+	font-size:20px;
+}
+h1{
+  background:#FFFF00;
+  text-align:center;
+}
+.logo{
+	background:#00008B;
+	
+}
+.enredo{
+ font-style:italic;
+}
+#imagens{
+ width: auto;
+}
+p{
+  text-align:center;
+}
+a{
+  width:auto;
+}
+i{
+	color :red;
+}
+u{
+  color:blue ;	
+}
+@media screen and (max-width: 480px){
+	body{
+		background: red; 
+	}
+}

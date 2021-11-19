@@ -1,0 +1,100 @@
+.logo{
+	background:#00008B;
+}
+nav{
+	position:absolute;
+	top: 90px;
+	right: 0px;
+}
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+h1{
+  background:#FFFF00;
+  text-align:center;
+}
+body{
+	background: #CCCCCC;
+	font-size:20px;
+}
+footer{
+	text-align: center;
+	background: url("bg.jpg");
+	padding: 40px;
+}
+.copyright{
+    
+    color: #FFFF00;
+	font-size: 40px;
+	margin: 20px 0 0 0;
+}
+main{
+  width:940px;
+  margin: 0 auto;	
+}
+form{
+	margin: 40px 0;
+}
+
+form label{
+	display: block;
+	font-size: 20px;
+	margin: 0 0 10px;
+}
+
+form input,form textarea{
+	display: block;
+	margin: 0 0 20px;
+	padding: 10px 20px;
+	width: 50%;
+}
+#imagens{
+	width:auto;
+}
+.enviar{
+	width:40%;
+	padding:15px 0;
+	background:orange;
+	color:white;
+	font-weight:bold;
+	font-size:18px;
+	border-radius:5px;
+}
+.enviar:hover{
+	background: darkorange;
+}
+table{
+	margin:20px 0 40px;
+}
+thead{
+	background:#555555;
+	color:white;
+	font-weight:bold;
+}
+td,th{
+	border:1px solid #000000;
+	padding:8px 10px;
+}
+.mapa{
+	padding: 5em 0;
+	background: linear-gradient(#FEFEFE,#888888);
+}
+.mapa-conteudo {
+	width: 940px;
+	margin: 0 auto;
+}
+.mapa p{
+	margin: 0 0 3em;
+	text-align: center;
+}
+#banner{
+	width:auto;
+}

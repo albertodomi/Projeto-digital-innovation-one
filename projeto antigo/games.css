@@ -1,0 +1,53 @@
+body{
+	background: #CCCCCC;
+	padding :20px 0;
+}
+.caixa{
+ position:relative;
+ width:940px;
+ margin:0 auto;
+}
+.logo{
+  background:#00008B;
+  
+}
+nav{
+  position:absolute;
+  top: 90px;
+  right: 0px;
+}
+nav li {
+  display: inline;
+  margin: 0 0 0 15px;
+}
+nav a {
+  text-transform: uppercase;
+  color: #000000;
+  font-weight: bold;
+  font-size: 22px;
+  text-decoration: none;
+}
+a{
+  width:auto;
+}
+.produto1 li{
+  display:inline-block;
+  text-align:center;
+  width:30%;
+  vertical-align:top;
+  background: #CCCCCC;
+  margin:0 1.5%;
+  padding: 50px 20px;
+}
+.produto2 li{
+  display:inline-block;
+  text-align:center;
+  width:30%;
+  vertical-align:top;
+}
+.produto3 li{
+  display:inline-block;
+  text-align:center;
+  width:30%;
+  vertical-align:top;
+}
