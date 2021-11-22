@@ -1,5 +1,5 @@
 .logo{
-	background:#00008B;
+	background:#0000ff;
 }
 nav{
 	position:absolute;
@@ -32,7 +32,7 @@ footer{
 }
 .copyright{
     
-    color: #FFFF00;
+    color: #000000;
 	font-size: 40px;
 	margin: 20px 0 0 0;
 }
